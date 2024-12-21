@@ -1,1 +1,2 @@
-# Netflix_sql tv shows and movies data analysis using  SQL
+# Netflix_sql  data analysis using  SQL and Using Power Bi.
+
